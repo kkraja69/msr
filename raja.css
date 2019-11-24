@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgb(245, 241, 241);
+}
+
+.loginbox{
+    width: auto;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 50px 90px;
+    background-color: #ccc;
+}
+
